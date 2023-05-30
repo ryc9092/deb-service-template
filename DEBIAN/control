@@ -1,0 +1,5 @@
+Package: service-template
+Version: 0.1
+Architecture: all
+Description: This is a service template.
+Maintainer: service <service@gmail.com>

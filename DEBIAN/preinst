@@ -1,0 +1,2 @@
+#!/bin/sh -e
+echo "service template preinst"

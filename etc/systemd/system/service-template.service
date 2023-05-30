@@ -1,0 +1,9 @@
+[Unit]
+Description=Service template
+
+[Service]
+Type=simple
+ExecStart=/bin/sh /var/code/service-template/service-template.sh
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,4 @@
+#!/bin/sh -e
+echo service template postinst
+systemctl enable service-template.service
+systemctl start service-template.service
